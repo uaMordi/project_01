@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2f4d1ee44a1407cb714e8ee107c3c1d8"
+build_time: [535637517, 143455000]
+inputs:
+  "/Users/mordi/Desktop/project_01/MissMystique/statisticsViewController.swift": [534341224, 0]
+  "/Users/mordi/Desktop/project_01/MissMystique/scanViewController.swift": !dirty [534025263, 0]
+  "/Users/mordi/Desktop/project_01/MissMystique/ViewController.swift": [534025263, 0]
+  "/Users/mordi/Desktop/project_01/MissMystique/addViewController.swift": [534025263, 0]
+  "/Users/mordi/Desktop/project_01/MissMystique/readViewController.swift": [534846150, 0]
+  "/Users/mordi/Desktop/project_01/MissMystique/AppDelegate.swift": [534341060, 0]
+  "/Users/mordi/Desktop/project_01/MissMystique/stViewController.swift": [534338940, 0]
